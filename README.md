@@ -23,6 +23,9 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="DigitalOcean"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -38,6 +41,6 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 ## 📫 Get in Touch
 
-- 🌐 [www.linkedin.com/in/kdekiller]
+- 🌐 [My portfolio]
 - 📧 dangnguyenquangit@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/kdekiller)
