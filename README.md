@@ -25,12 +25,6 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
 </p>
 
--- 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnguyenquang&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 What I Bring to the Table
