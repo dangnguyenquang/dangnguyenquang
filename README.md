@@ -30,8 +30,8 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnguyenquang&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnguyenquang&layout=compact&theme=tokyonight&hide=C,makefile,Assembly" />
 </div>
 
 ---
