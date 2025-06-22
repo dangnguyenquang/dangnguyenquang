@@ -40,10 +40,10 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 <h2>🚀 What I Bring to the Table</h2>
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="200" align="right" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" width="600" align="right" />
 </p>
 
-<ul>
+<ul width="800">
   <li>Proficient in <b>frontend development using Next.js</b>, with experience building SEO-friendly, high-performance web apps and managing complex UI states</li>
   <li>Skilled in <b>backend development using Spring Boot</b>, creating scalable REST APIs, integrating with databases, and applying enterprise-level design patterns</li>
   <li>A deep <b>passion for technology</b>, with past explorations into <b>AI</b> and <b>Big Data</b></li>
