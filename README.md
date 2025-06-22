@@ -30,13 +30,10 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 ---
 
-<h2>
-      <img src="./gifs/gitgif.gif" width="40" alt="GIF" />
-      <b>Github</b>
-</h2>
+## 📊 Github
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&theme=transparent" />
 </div>
 
 ---
