@@ -30,18 +30,28 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnguyenquang&layout=compact&theme=tokyonight&hide=C,makefile,Assembly" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
 </div>
 
 ---
 
-## 🚀 What I Bring to the Table
+<h2>🚀 What I Bring to the Table</h2>
 
-- Strong ability to **learn and adapt quickly** to new technologies and environments  
-- Hands-on experience with **real-world client projects** across diverse domains  
-- A deep **passion for technology**, with past explorations into **AI** and **Big Data**  
-- Excellent **English communication skills**, especially verbal – sharpened through my previous career as a **tour guide**  
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>Strong ability to <b>learn and adapt quickly</b> to new technologies and environments</li>
+        <li>Hands-on experience with <b>real-world client projects</b> across diverse domains</li>
+        <li>A deep <b>passion for technology</b>, with past explorations into <b>AI</b> and <b>Big Data</b></li>
+        <li>Excellent <b>English communication skills</b>, especially verbal – sharpened through my previous career as a <b>tour guide</b></li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" alt="GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
