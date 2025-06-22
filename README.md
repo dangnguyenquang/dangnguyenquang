@@ -44,10 +44,10 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 </p>
 <br>
 <ul dir="auto">
-  <li>Proficient in <b>frontend development using Next.js</b>, with experience building SEO-friendly, high-performance web apps and managing complex UI states</li>
-  <li>Skilled in <b>backend development using Spring Boot</b>, creating scalable REST APIs, integrating with databases, and applying enterprise-level design patterns</li>
-  <li>A deep <b>passion for technology</b>, with past explorations into <b>AI</b> and <b>Big Data</b></li>
-  <li>Excellent <b>English communication skills</b>, especially verbal – sharpened through my previous career as a <b>tour guide</b></li>
+  <li><b>Frontend:</b> Skilled in Next.js for building fast, SEO-friendly web apps</li>
+  <li><b>Backend:</b> Experienced with Spring Boot for scalable REST APIs</li>
+  <li><b>Tech Enthusiast:</b> Passionate about AI and Big Data</li>
+  <li><b>Communicator:</b> Strong English, honed as a former tour guide</li>
 </ul>
 
 
