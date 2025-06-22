@@ -40,7 +40,7 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 <h2>🚀 What I Bring to the Table</h2>
 
-<table border="0" style="border: none;">
+<table border="0">
   <tr>
     <td valign="top" width="60%">
       <ul>
