@@ -1,7 +1,13 @@
-<p>
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" alt="GIF" />
-  <strong style="font-size: 32px;">Hi there! I'm Dang Nguyen</strong>
-</p>
+<table border="0" style="border: none;">
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40" alt="GIF" />
+    </td>
+    <td>
+      <h2>Hi there! I'm Dang Nguyen</h2>
+    </td>
+  </tr>
+</table>
 
 I'm a **Fullstack Developer | Software Engineer** with real-world freelance experience working on production-level projects since 2023. I specialize in building efficient, scalable, and user-friendly applications across both frontend and backend stacks.
 
