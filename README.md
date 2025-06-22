@@ -30,7 +30,7 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 ---
 
-## 📊 Github
+## 📊 GitHub stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&theme=transparent&bg_color=00000000" />
