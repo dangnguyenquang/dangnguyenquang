@@ -1,4 +1,7 @@
-# 👋 Hi there! I'm Dang Nguyen
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" atl="GIF" />
+  <h1>Hi there! I'm Dang Nguyen</h1>
+</div>
 
 I'm a **Fullstack Developer | Software Engineer** with real-world freelance experience working on production-level projects since 2023. I specialize in building efficient, scalable, and user-friendly applications across both frontend and backend stacks.
 
@@ -37,12 +40,12 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 <h2>🚀 What I Bring to the Table</h2>
 
-<table>
+<table border="0" style="border: none;">
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>Strong ability to <b>learn and adapt quickly</b> to new technologies and environments</li>
-        <li>Hands-on experience with <b>real-world client projects</b> across diverse domains</li>
+        <li>Proficient in <b>frontend development using Next.js</b>, with experience building SEO-friendly, high-performance web apps and managing complex UI states</li>
+        <li>Skilled in <b>backend development using Spring Boot</b>, creating scalable REST APIs, integrating with databases, and applying enterprise-level design patterns</li>
         <li>A deep <b>passion for technology</b>, with past explorations into <b>AI</b> and <b>Big Data</b></li>
         <li>Excellent <b>English communication skills</b>, especially verbal – sharpened through my previous career as a <b>tour guide</b></li>
       </ul>
