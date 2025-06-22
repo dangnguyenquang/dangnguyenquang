@@ -27,6 +27,15 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dangnguyenquang&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnguyenquang&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
 ## 🚀 What I Bring to the Table
 
 - Strong ability to **learn and adapt quickly** to new technologies and environments  
