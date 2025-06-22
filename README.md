@@ -5,10 +5,6 @@
 
 I'm a **Fullstack Developer | Software Engineer** with real-world freelance experience working on production-level projects since 2023. I specialize in building efficient, scalable, and user-friendly applications across both frontend and backend stacks.
 
-<p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=You+found+me+%5E_%5E" alt="Typing SVG" /></a>
-</p>
-
 ---
 
 ## 🧰 Languages and Tools
