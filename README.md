@@ -27,10 +27,10 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg" height="40" alt="MUI"/>
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn/ui"/>
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo-min.svg" height="40" alt="TanStack"/>
+  <img src="https://logo.synthfinance.com/tanstack.com" height="40" alt="TanStack"/>
 </p>
 
 
