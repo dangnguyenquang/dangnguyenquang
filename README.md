@@ -49,6 +49,7 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
   <li><b>Tech Enthusiast:</b> Passionate about AI and Big Data</li>
   <li><b>Communicator:</b> Strong English, honed as a former tour guide</li>
 </ul>
+<br>
 
 ---
 
