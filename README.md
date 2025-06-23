@@ -43,10 +43,9 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGptM2NrZ2k5YnNmYXN0NWFiNmFveXloYTh0dWtmc3Jrd2JzN255biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="GIF" width="300" align="right" />
 </p>
 
-<br>
 <ul dir="auto">
-  <li><b>Frontend:</b> Skilled in Next.js/React for building fast, SEO-friendly web application, with a strong focus on performance optimization techniques. Able to reduce load times and improve user experience across devices.</li>
-  <li><b>Backend:</b> Experienced with Spring Boot for scalable REST APIs</li>
+  <li><b>Frontend:</b> Skilled in Next.js/React for building fast, SEO-friendly web application. Able to reduce load times and improve user experience across devices.</li>
+  <li><b>Backend:</b> Experienced with Spring Boot in designing and implementing scalable, high-performance RESTful APIs.</li>
   <li><b>Tech Enthusiast:</b> Passionate about AI and Big Data</li>
   <li><b>Communicator:</b> Strong English, honed as a former tour guide</li>
 </ul>
