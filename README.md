@@ -61,6 +61,6 @@ I'm a **Fullstack Developer | Software Engineer** with real-world freelance expe
 
 ## 📫 Get in Touch
 
-- 🌐 [My portfolio]
+[//]: <> (- 🌐 [My portfolio])
 - 📧 dangnguyenquangit@gmail.com
 - 💼 [LinkedIn](www.linkedin.com/in/kdekiller)
